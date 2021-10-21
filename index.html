@@ -18,7 +18,7 @@
             const resp = await prom.text();
             return resp;
         }
-        let imagesList = await getImagesList();
+        let imagesList = getImagesList();
         imagesList = imagesList.split("\n\n");
         console.log(imagesList)
     </script>
