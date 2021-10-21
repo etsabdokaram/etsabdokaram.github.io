@@ -24,10 +24,10 @@
                 return resp;
             }
             let imagesList = await getImagesList();
-            imagesList = imagesList.split("\r\n\r\n");
+            imagesList = imagesList.split("\n\n\n\n");
             imagesList.shift();
             imagesList = imagesList.map(folder => {
-                let final = folder.split("\r\n")
+                let final = folder.split("\n\n")
                 final[0] = final[0].substr(1, final[0].length - 2)
                 return final;
             })
