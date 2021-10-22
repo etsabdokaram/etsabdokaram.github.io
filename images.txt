@@ -1,6 +1,7 @@
 ./assets/:
 Diplos colors/
 Solid colors/
+TEST CHARBEL/
 Wood colors/
 
 ./assets/Diplos colors:
@@ -28,6 +29,9 @@ S 3018 SATIN 280.png
 S 372 ANTIGRAFF 366.png
 S 372 OSTUNI 280.jpg
 S 401 ANTIGRAFF 366.png
+
+./assets/TEST CHARBEL:
+CG_CH1928_Noce_Almendra-1500x1500.jpg
 
 ./assets/Wood colors:
 S 1691 BATMAN 280.jpg
