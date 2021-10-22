@@ -46,6 +46,10 @@
                         subDiv.classList = "col-lg-4 col-md-6 col-sm-12 text-center shadow-sm p-3 mb-5 bg-body rounded"
                         const img = document.createElement('img');
                         img.src = imagesList[i][0] + "/" + imagesList[i][j];
+                        img.minWidth = "400px"
+                        img.minHeight = "400px"
+                        img.maxWidth = "400px"
+                        img.maxHeight = "400px"
                         subDiv.appendChild(img);
                         const desc = document.createElement('p')
 
