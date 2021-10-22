@@ -5,22 +5,22 @@ TEST CHARBEL/
 Wood colors/
 
 ./assets/Diplos colors:
-1 - S 3005 ROOT 280.jpg
-2 - S 3015 ROOT 280.jpg
+1 - S 3015 ROOT 280.jpg
+10.  3011 ROOT 280.jpg
+11.  S 3012 ROOT 280.jpg
+12.  S 3027 ROOT 280.jpg
+13.  S 3025 ROOT 280.jpg
+14.  S 3026 ROOT 280.jpg
+15.  S 3031 ROOT 280.jpg
+16.  S 3033 ROOT 280.jpg
 2.  S 3016 ROOT 280.jpg
 3.  S 3017 ROOT 280.jpg
 4.  S 3018 ROOT 280.jpg
-S 3006 ROOT 280.jpg
-S 3009 ROOT 280.jpg
-S 3011 ROOT 280.jpg
-S 3012 ROOT 280.jpg
-S 3019 280.jpg
-S 3020 ROOT 280.jpg
-S 3025 ROOT 280.jpg
-S 3026 ROOT 280.jpg
-S 3027 ROOT 280.jpg
-S 3031 ROOT 280.jpg
-S 3033 ROOT 280.jpg
+5.  S 3019 280.jpg
+6.  S 3020 ROOT 280.jpg
+7.  S 3005 ROOT 280.jpg
+8.  S 3006 ROOT 280.jpg
+9.  S 3009 ROOT 280.jpg
 
 ./assets/Solid colors:
 1.  S 1491 ANTIGRAFF 366.jpg
