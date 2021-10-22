@@ -9,7 +9,7 @@
 3.  S 401 ANTIGRAFF 366.png
 4.  S 372 OSTUNI 280.jpg
 5.  S 3018 OSTUNI 280.jpg
-S 3018 SATIN 280.png
+6 - 3018 SATIN 280.png
 
 ./assets/2 - Wood colors:
 01 - 1973 GRUNGE 280.jpeg
