@@ -7,13 +7,13 @@ Wood colors/
 ./assets/Diplos colors:
 1 - S 3005 ROOT 280.jpg
 2 - S 3015 ROOT 280.jpg
+2.  S 3016 ROOT 280.jpg
+3.  S 3017 ROOT 280.jpg
+4.  S 3018 ROOT 280.jpg
 S 3006 ROOT 280.jpg
 S 3009 ROOT 280.jpg
 S 3011 ROOT 280.jpg
 S 3012 ROOT 280.jpg
-S 3016 ROOT 280.jpg
-S 3017 ROOT 280.jpg
-S 3018 ROOT 280.jpg
 S 3019 280.jpg
 S 3020 ROOT 280.jpg
 S 3025 ROOT 280.jpg
