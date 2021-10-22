@@ -30,6 +30,7 @@
             imagesList = imagesList.map(folder => {
                 let final = folder.split("\n")
                 final[0] = final[0].substr(1, final[0].length - 2)
+                final.sort();
                 return final;
             })
             for (let i = 0; i < imagesList.length; i++) {
